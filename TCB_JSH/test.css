@@ -300,85 +300,64 @@ body{
 
 .main{
 	width: 1200px;
-	height: 140px;
+	height: 150px;
 	clear: both;
-	text-align: center;
-}
-
-.main .q2{
-	width: 45px;
-	height: 45px;
+	/*background: red;*/
 	float: left;
-	background: transparent url(https://p.ssl.qhimg.com/t01d491ca6bcf8347f1.png) no-repeat 0 0;
-	margin-top: 40px;
-	position: relative;
-	left: 20px;
-}
-
-.main-1 {
-	border-right: 2px solid #ccc;
-	width: 290px;
-	height: 138px;
-	float: left;
-	text-align: center;
 	margin-top: 10px;
-	margin-right: 10px;
-	/*background: blue;*/
-}
-
-.main-1:last-child{
-	border-right: none;
-}
-
-.main-1:first-child{
-	margin-left: -10px;
+	margin-bottom: 10px;
 }
 .main-1 a img{
-	width: 104px;
-	height: 104px;
-	margin-top: 20px;
+	width: 80px;
+	height: 80px;
 	float: left;
+	margin: 30px 10px 0 10px;
 }
-
-.main-1:hover{
-	box-shadow:1px 0 20px rgba(0,0,0,0.5);
-}
+ 
 .main-1 h4{
-	font-size: 14px;
-	color: #333;
-}
-.main-1 p{
-	font-size: 12px;
 	margin-top: 10px;
 }
-.main-1 {
-	color: #ccc;
-}
-.main-1 h2{
-	float: left;
-	color: #f50;
-	margin-left: 10%;
-	margin-top: 20px;
+.main .q2 p{
+	margin-bottom: 10px;
 }
 
-.main-1 h2 span {
-	color: #f50;
-	font-size: 12px;
+.main .q2 h2{
+	color: #fc6621;
 }
 
-.main-1 a:last-child{
-	width: 102px;
-	height: 36px;
+.main .q2 p{
+	color: #666;
+}
+.main .q2 a{
+	text-decoration: none;
 	display: inline-block;
-	background: #f50;
-	line-height: 36px;
-	visibility: hidden;
+	color: #fff;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 5px;
+	width: 100px;
+	height: 30px;
+	background: #fc6621;
+	margin-left: 100px;
+	/*visibility: hidden;*/
 }
 
-.main-1 a:hover{
-	visibility: visible;
+.main .q2 span{
+	color: #fc6621;
+	font-size: 12px;
+	margin-left: 10px;
 }
-
+.main-1{
+	/*box-shadow:0 0 5px rgba(0,0,0,0.5);*/
+	width: 250px;
+	height: 150px;
+	float: left;
+	margin: 0 20px 0 25px;
+	background: #fff;
+}
+.main-1:hover{
+	box-shadow:1px 0 25px rgba(0,0,0,0.5);
+}
 /*------------------------------------------*/
 
 .main-2 {
