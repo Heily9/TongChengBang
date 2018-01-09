@@ -6,8 +6,8 @@
 	<!-- <link rel="stylesheet" type="text/css" href="reset.css"> -->
 	<link rel="stylesheet" type="text/css" href="swiper-3.3.1.min.css">
 	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/page.js"></script>
 	<script type="text/javascript" src="js/AJAX.js"></script>
+	<script type="text/javascript" src="js/page.js"></script>
 	<link rel="stylesheet" type="text/css" href="reset.css">
 	<script type="text/javascript" src="js/swiper-3.3.1.min.js"></script>
 </head>
@@ -455,5 +455,13 @@
 var mySwiper = new Swiper('.swiper-container', {
 	autoplay: 5000,//可选选项，自动滑动
 })
+	</script>
+
+	<script type="text/javascript">
+		$(function() {
+			 $('.main_des dt').mouseover(function() {
+        	 $('.li_3').attr('visibility','visible')
+    });
+		});
 	</script>
 </html>
