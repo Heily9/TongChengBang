@@ -621,6 +621,9 @@ img{
 	height: 133px;
 	border-bottom: 1px solid #f7f7f7;
 }
+.main_des dt:hover {
+	background: #f7f7f7;
+}
 .main_des li {
 	float: left;
 }
@@ -635,6 +638,28 @@ img{
 .main_des li:not(:nth-child(1)) {
 	padding-top: 12px;
 	padding-right: 70px;
+}
+.main_des li:last-child {
+	width: 80px;
+	height: 30px;
+	border:1px solid #185;
+	background: #fff;
+	margin-top: 50px;
+	/*visibility: hidden;*/
+}
+/*.main_des li:last-child:hover {
+	visibility:visible;
+}*/
+.main_des li:last-child p{
+	height: 30px;
+	width: 65px;
+	margin: 0 auto;
+	line-height: 30px;
+	font-size: 16px;
+	color: #185;
+	text-align: center;
+	margin-left: 45px;
+	margin-top: -5px;
 }
 .main_des li img {
 	vertical-align: middle;

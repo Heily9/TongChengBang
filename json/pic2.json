@@ -1,0 +1,91 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "product_id": "2511371260608512",
+            "model_name": "A33",
+            "brand_id": "22",
+            "brand_name": "oppo",
+            "price": 429,
+            "com_price": "1199",
+            "model_id": "620",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01d9baacc75c216330.jpg",
+                "big": "http://p0.qhmsg.com/t018c510c510243c7c2.jpg",
+                "mid": "http://p0.qhmsg.com/t01792a9f0591758acb.jpg",
+                "min": "http://p0.qhmsg.com/t0120e1b6b4f6e79575.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "2511369527664640",
+            "model_name": "A33",
+            "brand_id": "22",
+            "brand_name": "oppo",
+            "price": 439,
+            "com_price": "1199",
+            "model_id": "620",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01d9baacc75c216330.jpg",
+                "big": "http://p0.qhmsg.com/t018c510c510243c7c2.jpg",
+                "mid": "http://p0.qhmsg.com/t01792a9f0591758acb.jpg",
+                "min": "http://p0.qhmsg.com/t0120e1b6b4f6e79575.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "2511371813904384",
+            "model_name": "Y66",
+            "brand_id": "21",
+            "brand_name": "vivo",
+            "price": 769,
+            "com_price": "1499",
+            "model_id": "799",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01854f6e66989526e5.jpg",
+                "big": "http://p0.qhmsg.com/t016fa6db56ed9d6b8c.jpg",
+                "mid": "http://p0.qhmsg.com/t015b5062e0de9d73ff.jpg",
+                "min": "http://p0.qhmsg.com/t0199311665efc6af91.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "2511374832041984",
+            "model_name": "R9",
+            "brand_id": "22",
+            "brand_name": "oppo",
+            "price": 949,
+            "com_price": "2999",
+            "model_id": "523",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01dd66cb7014b93d9f.jpg",
+                "big": "http://p0.qhmsg.com/t01acb0e910c7b69160.jpg",
+                "mid": "http://p0.qhmsg.com/t016a8f6e6e32e49b2b.jpg",
+                "min": "http://p0.qhmsg.com/t017198e8acc57adee0.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "2511382653444096",
+            "model_name": "iPhone 6 Plus",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 1529,
+            "com_price": "6088",
+            "model_id": "98",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t0172d2bdb29df321df.jpg",
+                "big": "http://p0.qhmsg.com/t01a98bd1bd8c4f4440.jpg",
+                "mid": "http://p0.qhmsg.com/t01f0490a0beae52085.jpg",
+                "min": "http://p0.qhmsg.com/t01cc30a46c0d9e08a9.jpg"
+            },
+            "mer_name": ""
+        }
+    ]
+}
