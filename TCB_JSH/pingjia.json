@@ -1,0 +1,102 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "comment_id": "12973",
+            "comment_mobile": "157****220",
+            "comment_content": "在你们这里买真的很放心和说的一模一样价位便宜，超好。下次还来。",
+            "comment_level": "5",
+            "comment_create_time": "2017-12-27",
+            "is_img": false,
+            "product_name": "vivo【X9S Plus】全网通 黑色 64 G 国行 95成新 ",
+            "product_img": "http://p0.qhmsg.com/t0161af518567adbd6b.jpg",
+            "head_img": "http://p3.qhimg.com/t014f1f8df74b6d0a9f.jpg",
+            "model_id": "915",
+            "show_buyer_mobile": "157****220",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t0161af518567adbd6b.jpg"
+            }
+        },
+        {
+            "comment_id": "12957",
+            "comment_mobile": "135****203",
+            "comment_content": "成色好&nbsp;正品保证&nbsp;包装好&nbsp;性价比高&nbsp;非常满意&nbsp;<br>手机收到，外观成色很好，几乎找不到瑕疵，9成新基本接近全新。试用了接近一周吧，没有问题。",
+            "comment_level": "5",
+            "comment_create_time": "2017-12-27",
+            "is_img": false,
+            "product_name": "苹果【iPhone 7 Plus】全网通 黑色 128G 国行 9成新 ",
+            "product_img": "http://p0.qhmsg.com/t017b732c290353d239.jpg",
+            "head_img": "http://p3.qhimg.com/t01ed1e1e2d225b8b86.jpg",
+            "model_id": "678",
+            "show_buyer_mobile": "135****203",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t017b732c290353d239.jpg"
+            }
+        },
+        {
+            "comment_id": "12944",
+            "comment_mobile": "150****682",
+            "comment_content": "不错！跟新的一样！用安兔兔测试都没问题",
+            "comment_level": "5",
+            "comment_create_time": "2017-12-26",
+            "is_img": false,
+            "product_name": "oppo【A57】全网通 金色 32 G 国行 95成新 ",
+            "product_img": "http://p0.qhmsg.com/t0142219192a4ff5e79.jpg",
+            "head_img": "http://p3.qhimg.com/t01e4c1a3a87b42e564.jpg",
+            "model_id": "806",
+            "show_buyer_mobile": "150****682",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t0142219192a4ff5e79.jpg"
+            }
+        },
+        {
+            "comment_id": "12927",
+            "comment_mobile": "131****237",
+            "comment_content": "好靓",
+            "comment_level": "5",
+            "comment_create_time": "2017-12-25",
+            "is_img": false,
+            "product_name": "oppo【R9S】全网通 玫瑰金 64 G 国行 9成新 ",
+            "product_img": "http://p0.qhmsg.com/t013763d1025ed1c0de.jpg",
+            "head_img": "http://p3.qhimg.com/t01523860a291db13e7.jpg",
+            "model_id": "748",
+            "show_buyer_mobile": "131****237",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t013763d1025ed1c0de.jpg"
+            }
+        },
+        {
+            "comment_id": "12921",
+            "comment_mobile": "188****165",
+            "comment_content": "成色好&nbsp;正品保证&nbsp;包装好&nbsp;性价比高&nbsp;非常满意",
+            "comment_level": "5",
+            "comment_create_time": "2017-12-25",
+            "is_img": false,
+            "product_name": "三星【Galaxy S8+】全网通 黑色 64 G 国行 9成新 ",
+            "product_img": "http://p0.qhmsg.com/t0164b65ad293d2c417.jpg",
+            "head_img": "http://p3.qhimg.com/t014f1f8df74b6d0a9f.jpg",
+            "model_id": "870",
+            "show_buyer_mobile": "188****165",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t0164b65ad293d2c417.jpg"
+            }
+        },
+        {
+            "comment_id": "12917",
+            "comment_mobile": "131****789",
+            "comment_content": "还过得去&nbsp;最满意的是检验单有系统版本的信息&nbsp;可以让不同的买家选择需要的版本&nbsp;一如以往的支持同城帮",
+            "comment_level": "5",
+            "comment_create_time": "2017-12-25",
+            "is_img": false,
+            "product_name": "苹果【iPhone 6S】全网通 玫瑰金 64 G 国行 8成新 ",
+            "product_img": "http://p0.qhmsg.com/t018b78f02ef6fa5500.jpg",
+            "head_img": "http://p3.qhimg.com/t0148dc53ad4c794801.jpg",
+            "model_id": "261",
+            "show_buyer_mobile": "131****789",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t018b78f02ef6fa5500.jpg"
+            }
+        }
+    ]
+}
